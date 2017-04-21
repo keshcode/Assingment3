@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_value">Item Value</string>
+    <string name="pending">Pending</string>
+    <string name="accepted">Accepted</string>
+    <string name="cancel">Cancel</string>
+    <string name="completed">Completed</string>
+    <string name="up_coming">Up Coming</string>
+    <string name="past">Past</string>
+</resources>
